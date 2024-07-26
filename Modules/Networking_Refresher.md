@@ -1,4 +1,4 @@
-#Networking Refresher
+# Networking Refresher
 
 ![alt text](Assests/image.png)
 
@@ -22,8 +22,8 @@
     • A connection less protocol
     • Examples - Streaming Service, Gaming
 
-![alt text](Assets/IP_Class.png)
+![alt text](Assests/IP_Class.png)
 
-![alt text](Assets/Common_IP_Ports.png)
+![alt text](Assests/Common_IP_Ports.png)
 
-![alt text](Assets/OSI.png)
+![alt text](Assests/OSI.png)
