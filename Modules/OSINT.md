@@ -1,7 +1,7 @@
 # OPEN SOUCE INTELLIGENCE: OSINT
 
 ## SOCK PUPPETS
-        • [Web Archive](https://web.archive.org/web/20210125191016/https://jakecreps.com/2018/11/02/sock-puppets/)
+        • [Web Archive] (https://web.archive.org/web/20210125191016/https://jakecreps.com/2018/11/02/sock-puppets/)
         • [SecJuice](https://www.secjuice.com/the-art-of-the-sock-osint-humint/)
         • [Reddit](https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/)
         • [fakenamegenerator](https://www.fakenamegenerator.com/)
